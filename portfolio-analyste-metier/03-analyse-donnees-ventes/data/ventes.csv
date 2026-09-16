@@ -1,0 +1,9 @@
+commande_id,date_commande,region,categorie,revenu,statut
+O1001,2026-09-01,Kinshasa,Logiciel,120.00,TERMINEE
+O1002,2026-09-01,Lubumbashi,Materiel,250.00,TERMINEE
+O1003,2026-09-02,Kinshasa,Logiciel,80.00,ANNULEE
+O1004,2026-09-03,Goma,Services,400.00,TERMINEE
+O1005,2026-09-04,Kinshasa,Materiel,180.00,TERMINEE
+O1006,2026-09-05,Lubumbashi,Services,300.00,TERMINEE
+O1007,2026-09-06,Goma,Logiciel,150.00,TERMINEE
+O1008,2026-09-07,Kinshasa,Services,210.00,TERMINEE
